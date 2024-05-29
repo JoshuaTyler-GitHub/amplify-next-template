@@ -1,0 +1,13 @@
+{
+  "[typescript]": {
+    "editor.rulers": [
+      { "column": 80, "color": "#007acc" } // code-lines should not exceed 80 characters
+    ]
+  },
+  "[typescriptreact]": {
+    "editor.rulers": [
+      { "column": 80, "color": "#007acc" } // code-lines should not exceed 80 characters
+    ]
+  },
+  "editor.tabSize": 2
+}
